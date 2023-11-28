@@ -1,0 +1,21 @@
+.body{
+  min-height:4000px;
+}
+
+.banner {
+  background: url("img/download\ \(21\).jpg") no-repeat center center;
+  background-size: cover;
+  padding-top: 10%;
+  padding-bottom: 20%;
+  color: #ffffff;
+}
+
+.album{
+  background-color: rgb(134, 4, 4);
+  background-size: cover;
+  min-height: 200vh;
+}
+
+.album p{
+  color:#ffffff;
+}
